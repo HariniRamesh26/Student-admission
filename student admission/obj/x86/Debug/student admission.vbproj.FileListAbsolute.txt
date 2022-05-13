@@ -1,0 +1,112 @@
+c:\users\administrator\documents\visual studio 2010\Projects\student admission\student admission\bin\Debug\student admission.exe
+c:\users\administrator\documents\visual studio 2010\Projects\student admission\student admission\bin\Debug\student admission.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\student admission\student admission\bin\Debug\student admission.xml
+c:\users\administrator\documents\visual studio 2010\Projects\student admission\student admission\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\student admission\student admission\obj\x86\Debug\student_admission.Form1.resources
+c:\users\administrator\documents\visual studio 2010\Projects\student admission\student admission\obj\x86\Debug\student_admission.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\student admission\student admission\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\student admission\student admission\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\student admission\student admission\obj\x86\Debug\student admission.exe
+c:\users\administrator\documents\visual studio 2010\Projects\student admission\student admission\obj\x86\Debug\student admission.xml
+c:\users\administrator\documents\visual studio 2010\Projects\student admission\student admission\obj\x86\Debug\student admission.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\student admission\student admission\obj\x86\Debug\student_admission.Form2.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\student admission\student admission\obj\x86\Debug\student_admission.Form3.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\student admission\student admission\obj\x86\Debug\student_admission.Form4.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\student admission\student admission\obj\x86\Debug\student_admission.Form5.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\student admission\student admission\obj\x86\Debug\student_admission.Form6.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\student admission\student admission\obj\x86\Debug\student_admission.Form7.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\student admission\student admission\obj\x86\Debug\student_admission.Form8.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\student admission\student admission\obj\x86\Debug\student_admission.Form10.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\student admission\student admission\obj\x86\Debug\student_admission.Form11.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\student admission\student admission\obj\x86\Debug\student_admission.Form12.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\student admission\student admission\obj\x86\Debug\student_admission.Form13.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\student admission\student admission\obj\x86\Debug\student_admission.Form9.resources
+G:\h\student admission\obj\x86\Debug\student admission.exe
+G:\h\student admission\obj\x86\Debug\student admission.xml
+G:\h\student admission\obj\x86\Debug\student admission.pdb
+E:\h\student admission\obj\x86\Debug\student admission.exe
+E:\h\student admission\obj\x86\Debug\student admission.xml
+E:\h\student admission\obj\x86\Debug\student admission.pdb
+H:\h\student admission\obj\x86\Debug\student admission.exe
+H:\h\student admission\obj\x86\Debug\student admission.xml
+H:\h\student admission\obj\x86\Debug\student admission.pdb
+C:\Users\rakeshmech\Desktop\h\student admission\obj\x86\Debug\student admission.exe
+C:\Users\rakeshmech\Desktop\h\student admission\obj\x86\Debug\student admission.xml
+C:\Users\rakeshmech\Desktop\h\student admission\obj\x86\Debug\student admission.pdb
+C:\Users\rakeshmech\Desktop\h\student admission\bin\Debug\student admission.exe
+C:\Users\rakeshmech\Desktop\h\student admission\bin\Debug\student admission.pdb
+C:\Users\rakeshmech\Desktop\h\student admission\bin\Debug\student admission.xml
+C:\Users\rakeshmech\Desktop\h\student admission\obj\x86\Debug\student_admission.Form1.resources
+C:\Users\rakeshmech\Desktop\h\student admission\obj\x86\Debug\student_admission.Form10.resources
+C:\Users\rakeshmech\Desktop\h\student admission\obj\x86\Debug\student_admission.Form11.resources
+C:\Users\rakeshmech\Desktop\h\student admission\obj\x86\Debug\student_admission.Form12.resources
+C:\Users\rakeshmech\Desktop\h\student admission\obj\x86\Debug\student_admission.Form13.resources
+C:\Users\rakeshmech\Desktop\h\student admission\obj\x86\Debug\student_admission.Form2.resources
+C:\Users\rakeshmech\Desktop\h\student admission\obj\x86\Debug\student_admission.Form4.resources
+C:\Users\rakeshmech\Desktop\h\student admission\obj\x86\Debug\student_admission.Form3.resources
+C:\Users\rakeshmech\Desktop\h\student admission\obj\x86\Debug\student_admission.Form5.resources
+C:\Users\rakeshmech\Desktop\h\student admission\obj\x86\Debug\student_admission.Form6.resources
+C:\Users\rakeshmech\Desktop\h\student admission\obj\x86\Debug\student_admission.Form7.resources
+C:\Users\rakeshmech\Desktop\h\student admission\obj\x86\Debug\student_admission.Form8.resources
+C:\Users\rakeshmech\Desktop\h\student admission\obj\x86\Debug\student_admission.Form9.resources
+C:\Users\rakeshmech\Desktop\h\student admission\obj\x86\Debug\student_admission.Resources.resources
+C:\Users\rakeshmech\Desktop\h\student admission\obj\x86\Debug\student admission.vbproj.GenerateResource.Cache
+C:\Users\rakeshmech\Desktop\h\student admission\bin\Debug\student admission.exe.config
+C:\Users\rakeshmech\Desktop\h\student admission\obj\x86\Debug\student admission.vbprojResolveAssemblyReference.cache
+C:\Users\rakeshmech\Desktop\h\student admission\obj\x86\Debug\student_admission.Form15.resources
+C:\Users\rakeshmech\Desktop\h\student admission\obj\x86\Debug\student_admission.Form16.resources
+C:\Users\rakeshmech\Desktop\h\student admission\obj\x86\Debug\student_admission.Form14.resources
+C:\Users\rakeshmech\Desktop\h\student admission\obj\x86\Debug\RdlCompile.cache
+C:\Users\rakeshmech\Desktop\h\student admission\obj\x86\Debug\RdlCompile.compiled
+C:\Users\rakeshmech\Desktop\h1\student admission\bin\Debug\student admission.exe.config
+C:\Users\rakeshmech\Desktop\h1\student admission\obj\x86\Debug\student admission.exe
+C:\Users\rakeshmech\Desktop\h1\student admission\obj\x86\Debug\student admission.xml
+C:\Users\rakeshmech\Desktop\h1\student admission\obj\x86\Debug\student admission.pdb
+C:\Users\rakeshmech\Desktop\h1\student admission\bin\Debug\student admission.exe
+C:\Users\rakeshmech\Desktop\h1\student admission\bin\Debug\student admission.pdb
+C:\Users\rakeshmech\Desktop\h1\student admission\bin\Debug\student admission.xml
+C:\Users\rakeshmech\Desktop\h1\student admission\obj\x86\Debug\student admission.vbprojResolveAssemblyReference.cache
+C:\Users\rakeshmech\Desktop\h1\student admission\obj\x86\Debug\student_admission.Form1.resources
+C:\Users\rakeshmech\Desktop\h1\student admission\obj\x86\Debug\student_admission.Form10.resources
+C:\Users\rakeshmech\Desktop\h1\student admission\obj\x86\Debug\student_admission.Form11.resources
+C:\Users\rakeshmech\Desktop\h1\student admission\obj\x86\Debug\student_admission.Form12.resources
+C:\Users\rakeshmech\Desktop\h1\student admission\obj\x86\Debug\student_admission.Form13.resources
+C:\Users\rakeshmech\Desktop\h1\student admission\obj\x86\Debug\student_admission.Form14.resources
+C:\Users\rakeshmech\Desktop\h1\student admission\obj\x86\Debug\student_admission.Form15.resources
+C:\Users\rakeshmech\Desktop\h1\student admission\obj\x86\Debug\student_admission.Form16.resources
+C:\Users\rakeshmech\Desktop\h1\student admission\obj\x86\Debug\student_admission.Form2.resources
+C:\Users\rakeshmech\Desktop\h1\student admission\obj\x86\Debug\student_admission.Form4.resources
+C:\Users\rakeshmech\Desktop\h1\student admission\obj\x86\Debug\student_admission.Form3.resources
+C:\Users\rakeshmech\Desktop\h1\student admission\obj\x86\Debug\student_admission.Form5.resources
+C:\Users\rakeshmech\Desktop\h1\student admission\obj\x86\Debug\student_admission.Form6.resources
+C:\Users\rakeshmech\Desktop\h1\student admission\obj\x86\Debug\student_admission.Form7.resources
+C:\Users\rakeshmech\Desktop\h1\student admission\obj\x86\Debug\student_admission.Form8.resources
+C:\Users\rakeshmech\Desktop\h1\student admission\obj\x86\Debug\student_admission.Form9.resources
+C:\Users\rakeshmech\Desktop\h1\student admission\obj\x86\Debug\student_admission.Resources.resources
+C:\Users\rakeshmech\Desktop\h1\student admission\obj\x86\Debug\student admission.vbproj.GenerateResource.Cache
+C:\Users\rakeshmech\Desktop\original\student admission\bin\Debug\student admission.exe.config
+C:\Users\rakeshmech\Desktop\original\student admission\obj\x86\Debug\student admission.exe
+C:\Users\rakeshmech\Desktop\original\student admission\obj\x86\Debug\student admission.xml
+C:\Users\rakeshmech\Desktop\original\student admission\obj\x86\Debug\student admission.pdb
+C:\Users\rakeshmech\Desktop\original\student admission\bin\Debug\student admission.exe
+C:\Users\rakeshmech\Desktop\original\student admission\bin\Debug\student admission.pdb
+C:\Users\rakeshmech\Desktop\original\student admission\bin\Debug\student admission.xml
+C:\Users\rakeshmech\Desktop\original\student admission\obj\x86\Debug\student admission.vbprojResolveAssemblyReference.cache
+C:\Users\rakeshmech\Desktop\original\student admission\obj\x86\Debug\student_admission.Form1.resources
+C:\Users\rakeshmech\Desktop\original\student admission\obj\x86\Debug\student_admission.Form10.resources
+C:\Users\rakeshmech\Desktop\original\student admission\obj\x86\Debug\student_admission.Form11.resources
+C:\Users\rakeshmech\Desktop\original\student admission\obj\x86\Debug\student_admission.Form12.resources
+C:\Users\rakeshmech\Desktop\original\student admission\obj\x86\Debug\student_admission.Form13.resources
+C:\Users\rakeshmech\Desktop\original\student admission\obj\x86\Debug\student_admission.Form14.resources
+C:\Users\rakeshmech\Desktop\original\student admission\obj\x86\Debug\student_admission.Form15.resources
+C:\Users\rakeshmech\Desktop\original\student admission\obj\x86\Debug\student_admission.Form16.resources
+C:\Users\rakeshmech\Desktop\original\student admission\obj\x86\Debug\student_admission.Form2.resources
+C:\Users\rakeshmech\Desktop\original\student admission\obj\x86\Debug\student_admission.Form4.resources
+C:\Users\rakeshmech\Desktop\original\student admission\obj\x86\Debug\student_admission.Form3.resources
+C:\Users\rakeshmech\Desktop\original\student admission\obj\x86\Debug\student_admission.Form5.resources
+C:\Users\rakeshmech\Desktop\original\student admission\obj\x86\Debug\student_admission.Form6.resources
+C:\Users\rakeshmech\Desktop\original\student admission\obj\x86\Debug\student_admission.Form7.resources
+C:\Users\rakeshmech\Desktop\original\student admission\obj\x86\Debug\student_admission.Form8.resources
+C:\Users\rakeshmech\Desktop\original\student admission\obj\x86\Debug\student_admission.Form9.resources
+C:\Users\rakeshmech\Desktop\original\student admission\obj\x86\Debug\student_admission.Resources.resources
+C:\Users\rakeshmech\Desktop\original\student admission\obj\x86\Debug\student admission.vbproj.GenerateResource.Cache
